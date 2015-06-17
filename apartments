@@ -1,0 +1,1860 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />    
+    <meta content="Rentals in Haarlem? Pararius offers many rental apartments in Haarlem. Also rental properties such as houses, villas and flats for rent in Haarlem." name="description">
+    <title>Apartments in Haarlem? The Haarlem rental website!</title>
+        <link href="/apartments/haarlem" rel="canonical">
+    
+    <!--[if IE 7]>
+    <link media="print" rel="stylesheet" type="text/css" href="/assets/themes/pararius/css/sup_ie7.css" />
+    <![endif]-->
+<link rel="stylesheet" href="//www.pararius.com/assets/cache/b873439e29457e98195108a20aae9a8d.css" type="text/css" />
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js"></script>
+    <script type="text/javascript">
+            var jsRelUrl = 'http://149.210.180.25';
+            //window.jQuery || document.write('<script type="text/javascript" src="/assets/themes/pararius/js/jquery-1.8.2.min.js"><\/script>');
+    </script>
+    <!-- <script type="text/javascript" src="/assets/themes/pararius/js/modernizr.js"></script>
+    <script type="text/javascript" src="/assets/themes/pararius/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="/assets/themes/pararius/js/jquery.main.js"></script>
+    <script type="text/javascript" src="/assets/themes/pararius/js/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="/assets/themes/pararius/js/parariusfn.js"></script>
+    <script type="text/javascript" src="/assets/themes/pararius/js/parariusconf.js"></script>-->
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="//www.pararius.com/assets/cache/a8cd8468a51b97dad32306deff2a6fef.js" type="text/javascript"></script>
+
+<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyABQ7A_Q4q7AF7OhX4_7vpTzDh5uyeSVD0&sensor=false" type="text/javascript"></script>
+<script src="http://media.pararius.nl/include/javascript/infobox.js" type="text/javascript"></script>
+    </head>
+<body>
+<!--Start Header -->
+<div id="header">
+  <div class="container">
+      <div class="row">
+        <div class="logo vcard">
+            <a class="url org" href="/english" id="logoLink">
+                <img src="/images/ParariuscomSmall.svg" height="40"  title="Pararius opening doors" alt="Pararius opening doors" />
+            </a>
+        </div>
+        <div class="top-bar">
+            <ul>
+                                                                                                                     <li><a id="signupform" href="/sign-up-for-free">Sign up for free</a></li>
+                                                                                                        <li><a  class="open-popup" href="#signIn">Login</a></li>
+                                                                                          
+            </ul>
+        </div>
+      </div>
+      <div class="row">
+        <div id="nav">
+        <a href="#" class="opener"><span>Menu</span></a>
+        <ul>
+                                           <li class="active"><a href="/english"><span>All rental objects</span></a></li>
+                                <li class=""><a href="/developments"><span>Developments</span></a></li>
+                                <li class=""><a href="/short-stay"><span>Short Stay</span></a></li>
+                                    </ul>
+</div>
+                                        <div class="language-bar">
+            <strong class="title">Language:</strong>
+            <div class="set-list">
+                                                  <a href="#" class="active-lang"><img src="/images/gb.png" alt="Gbr" />English</a>
+                                                                                                                <ul>
+                    <!--
+                                        <li><a href="/language/new/FR/appartements/haarlem"><img src="/images/fr.png" alt="Francais" />&nbsp;Francais</a></li>                    <li><a href="/language/new/DE/mietwohnungen/haarlem"><img src="/images/de.png" alt="Deutsch" />&nbsp;Deutsch</a></li>                    <li><a href="/language/new/IT/appartamenti/haarlem"><img src="/images/it.png" alt="Italiano" />&nbsp;Italiano</a></li>                    <li><a href="/language/new/NL/huurwoningen/haarlem"><img src="/images/nl.png" alt="Nederlands" />&nbsp;Nederlands</a></li>                    <li><a href="/language/new/ES/pisos/haarlem"><img src="/images/es.png" alt="Espanol" />&nbsp;Español</a></li>                    -->
+                                        <li><a href="http://www.pararius.com/appartements/haarlem"><img src="/images/fr.png" alt="Francais" />&nbsp;Francais</a></li>                    <li><a href="http://www.pararius.com/mietwohnungen/haarlem"><img src="/images/de.png" alt="Deutsch" />&nbsp;Deutsch</a></li>                    <li><a href="http://www.pararius.com/appartamenti/haarlem"><img src="/images/it.png" alt="Italiano" />&nbsp;Italiano</a></li>                    <li><a href="http://www.pararius.nl/huurwoningen/haarlem"><img src="/images/nl.png" alt="Nederlands" />&nbsp;Nederlands</a></li>                    <li><a href="http://www.pararius.com/pisos/haarlem"><img src="/images/es.png" alt="Espanol" />&nbsp;Español</a></li>                </ul>
+            </div>
+        </div>
+     </div>
+  </div>
+</div>
+<!--End Header -->
+<div id="main">
+            <div id="row0" class="rowcols1">
+                             <div id="block0-0" class="cols3 block0">
+                                        <div class="fullsizeClear  "></div>
+<div class="fullsize  " id="formfullX">
+    <div class="container">
+    <form action="" autocomplete="off" id="resultstype" method="post" class="hidden">
+        <input type="hidden" name="liststyle" value="list">
+    </form>
+    <form id="enablealtform" action="/apartments" name="QuicksearchForm" enctype="application/x-www-form-urlencoded" autocomplete="off" method="post" class="advanced search-form cols3">
+            <fieldset>
+            <input type="hidden" value="1" name="lvl1">
+            <input type="hidden" value="0" name="houseSort">
+            <input type="hidden" value="0" name="city">
+            <input type="hidden" value="0" name="form_start">
+            <input type="hidden" value="photos-v" name="listThumbs" id="listThumbs">
+            <input type="hidden" value="list" name="liststyle" id="liststyle">
+            <input type="hidden" value="40" name="maxresultcount">
+            <input type="hidden" value="yes" name="posted">
+            <input type="hidden" value="haarlem" id="citySlug" name="citySlug">
+            <input type="hidden" value="featuredDate|desc" name="SORT">
+                <div class="holder">
+                                            <input type="hidden" value="list" name="pageType" ref="map">
+                        <div class="row">
+                            <input type="text" placeholder="City" autocomplete="off" class="autocomplete" style="width:163px;" id="form_cityPostal" name="city_Postal"  value="Haarlem">
+                            <select id="radius" name="radius" style="width:87px;" alt="radius">
+                                                                    <option value="-1" >Radius</option>
+                                                                    <option value="5" >+ 5 km</option>
+                                                                    <option value="10" >+ 10 km</option>
+                                                                    <option value="15" >+ 15 km</option>
+                                                                    <option value="20" >+ 20 km</option>
+                                                                    <option value="25" >+ 25 km</option>
+                                                                    <option value="30" >+ 30 km</option>
+                                                                    <option value="35" >+ 35 km</option>
+                                                                    <option value="40" >+ 40 km</option>
+                                                                    <option value="45" >+ 45 km</option>
+                                                                    <option value="50" >+ 50 km</option>
+                                                            </select>                       
+                            <select class="mark" name="minPrice" id="minPrice" style="width:116px">
+                                                                                                            <option value="-1"  >Min price p/month</option>
+                                                                            <option value="100"  >€ 100</option>
+                                                                            <option value="200"  >€ 200</option>
+                                                                            <option value="300"  >€ 300</option>
+                                                                            <option value="400"  >€ 400</option>
+                                                                            <option value="500"  >€ 500</option>
+                                                                            <option value="600"  >€ 600</option>
+                                                                            <option value="700"  >€ 700</option>
+                                                                            <option value="800"  >€ 800</option>
+                                                                            <option value="900"  >€ 900</option>
+                                                                            <option value="1000"  >€ 1000</option>
+                                                                            <option value="1250"  >€ 1250</option>
+                                                                            <option value="1500"  >€ 1500</option>
+                                                                            <option value="1750"  >€ 1750</option>
+                                                                            <option value="2000"  >€ 2000</option>
+                                                                            <option value="2250"  >€ 2250</option>
+                                                                            <option value="2500"  >€ 2500</option>
+                                                                            <option value="2750"  >€ 2750</option>
+                                                                            <option value="3000"  >€ 3000</option>
+                                                                            <option value="3250"  >€ 3250</option>
+                                                                            <option value="3500"  >€ 3500</option>
+                                                                            <option value="3750"  >€ 3750</option>
+                                                                            <option value="4000"  >€ 4000</option>
+                                                                            <option value="4250"  >€ 4250</option>
+                                                                            <option value="4500"  >€ 4500</option>
+                                                                            <option value="4750"  >€ 4750</option>
+                                                                            <option value="5000"  >€ 5000</option>
+                                                                            <option value="5250"  >€ 5250</option>
+                                                                            <option value="5500"  >€ 5500</option>
+                                                                            <option value="5750"  >€ 5750</option>
+                                                                         
+                            </select>
+                            <select name="maxPrice" id="maxPrice" class="mark2" style="width:118px">
+                                                    
+                                                                            <option value="-1"  >Max price p/month</option>
+                                                                            <option value="100"  >€ 100</option>
+                                                                            <option value="200"  >€ 200</option>
+                                                                            <option value="300"  >€ 300</option>
+                                                                            <option value="400"  >€ 400</option>
+                                                                            <option value="500"  >€ 500</option>
+                                                                            <option value="600"  >€ 600</option>
+                                                                            <option value="700"  >€ 700</option>
+                                                                            <option value="800"  >€ 800</option>
+                                                                            <option value="900"  >€ 900</option>
+                                                                            <option value="1000"  >€ 1000</option>
+                                                                            <option value="1250"  >€ 1250</option>
+                                                                            <option value="1500"  >€ 1500</option>
+                                                                            <option value="1750"  >€ 1750</option>
+                                                                            <option value="2000"  >€ 2000</option>
+                                                                            <option value="2250"  >€ 2250</option>
+                                                                            <option value="2500"  >€ 2500</option>
+                                                                            <option value="2750"  >€ 2750</option>
+                                                                            <option value="3000"  >€ 3000</option>
+                                                                            <option value="3250"  >€ 3250</option>
+                                                                            <option value="3500"  >€ 3500</option>
+                                                                            <option value="3750"  >€ 3750</option>
+                                                                            <option value="4000"  >€ 4000</option>
+                                                                            <option value="4250"  >€ 4250</option>
+                                                                            <option value="4500"  >€ 4500</option>
+                                                                            <option value="4750"  >€ 4750</option>
+                                                                            <option value="5000"  >€ 5000</option>
+                                                                            <option value="5250"  >€ 5250</option>
+                                                                            <option value="5500"  >€ 5500</option>
+                                                                            <option value="5750"  >€ 5750</option>
+                                                                            <option value="99999"  >No maximum</option>
+                                                                         
+                            </select>
+                            <select id="size_m2" name="size_m2" style="width:79px">
+                                                                     
+                                    <option value="-1"  >m&sup2;</option>
+                                                                     
+                                    <option value=">25"  >+ 25 m&sup2;</option>
+                                                                     
+                                    <option value=">50"  >+ 50 m&sup2;</option>
+                                                                     
+                                    <option value=">75"  >+ 75 m&sup2;</option>
+                                                                     
+                                    <option value=">100"  >+ 100 m&sup2;</option>
+                                                                     
+                                    <option value=">125"  >+ 125 m&sup2;</option>
+                                                                     
+                                    <option value=">150"  >+ 150 m&sup2;</option>
+                                                                     
+                                    <option value=">175"  >+ 175 m&sup2;</option>
+                                                                     
+                                    <option value=">200"  >+ 200 m&sup2;</option>
+                                                                     
+                                    <option value=">225"  >+ 225 m&sup2;</option>
+                                                                     
+                                    <option value=">250"  >+ 250 m&sup2;</option>
+                                                            </select>
+                            <select name="nrOfBedrooms" id="nrOfBedrooms" class="mark2" style="width:176px" alt="bedroom(s)">
+                                                                    <option value="-1" >Number of bedrooms</option>
+                                                                    <option value=">1" >1 +</option>
+                                                                    <option value=">2" >2 +</option>
+                                                                    <option value=">3" >3 +</option>
+                                                                    <option value=">4" >4 +</option>
+                                                                    <option value=">5" >5 +</option>
+                                                                    <option value=">6" >6 +</option>
+                                                                    <option value=">7" >7 +</option>
+                                                                    <option value=">8" >8 +</option>
+                                                                    <option value=">9" >9 +</option>
+                                                            </select>                            
+                                                        <select id="furnished" name="furnished" class="mark" style="width:123px;margin-right:0px">
+                                                                    <option value="-1"  >Interior</option>
+                                                                    <option value="3"  >Furnished</option>
+                                                                    <option value="1"  >Unfurnished</option>
+                                                            </select>
+                                                    </div>
+                        <div class="row">
+                            <input type="submit" value="Search" class="search-btn" name="submitBtn">
+                            <div class="cb_align">
+                                <input type="checkbox" value="" name="googlemapSubmit" id="googlemapSubmit" class="kaarts" onchange="this.value=(this.checked===true)?'map':'list';return false;">
+                                <label class="checkbox" onclick="" for="googlemapSubmit">Show on map</label>
+                            </div>
+                            
+                            <strong id="numhouses_aj" class="note">145 results</strong>
+                        </div>
+                                        <input type="hidden" value="1" class="advancedSearch" name="advancedSearch">
+                </div>
+                             <div class="more-options">
+    <a id="sbx" class="btn_advanced">Advanced search<div class="attention" id="optcount"><span></span></div></a>
+        <div style="display:none;" class="toggleTextAlternate" class="slide">
+        <div class="block">
+            <div class="col">
+                <div class="row">
+                    <select id="select-from" name="subAreaFilter">
+                        <option value="0">Neighbourhood(s)</option>
+                                                                                                                                                                        <option  value=""  >City district:  </option>
+                                                                                                                    <option  value="039208"  >City district: Duinwijk </option>
+                                                                                                                    <option  value="039200"  >City district: Haarlem </option>
+                                                                                                                    <option  value="039203"  >City district: Haarlem-Oost </option>
+                                                                                                                    <option  value="039204"  >City district: Haarlemmerhoutkwartier </option>
+                                                                                                                    <option  value="039207"  >City district: Oud Schoten en Spaarndam </option>
+                                                                                                                    <option  value="039201"  >City district: Oude stad </option>
+                                                                                                                    <option  value="039209"  >City district: Schalkwijk </option>
+                                                                                                                    <option  value="039202"  >City district: Spoorbaan Leiden </option>
+                                                                                                                    <option  value="039206"  >City district: Ter Kleef en Te Zaanen </option>
+                                                                                                                    <option  value="039205"  >City district: Westoever Noord Buitenspaarne </option>
+                                                                                                        </select>
+                                                                 
+                </div>
+                <div class="row">
+                    <div id="ms-select-from" class="ms-container">
+                        <div class="ms-selection">
+                            <ul class="ms-list">
+                                                                                                                                </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col">
+                <div class="row">
+                    <select id="houseType" name="houseType">
+                                                    <option value="-1" >Type of house</option>
+                                                    <option value="30" >Family house</option>
+                                                    <option value="35" >Apartment</option>
+                                                    <option value="38" >Garage</option>
+                                                    <option value="39" >Room</option>
+                                                    <option value="40" >Villa</option>
+                                                    <option value="33" >Houseboat</option>
+                                                    <option value="34" >Studio</option>
+                                                    <option value="32" >Senior accommodation</option>
+                                                    <option value="31" >Live in guardian</option>
+                                                    <option value="37" >Bungalow</option>
+                                                    <option value="36" >Live Workspace</option>
+                                            </select>
+
+                </div>
+                <div class="row">
+                    <select id="nrOfBathrooms" name="nrOfBathrooms" alt="bathroom(s)">
+                                                    <option value="-1" >Number of bathrooms</option>
+                                                    <option value=">1" >1 +</option>
+                                                    <option value=">2" >2 +</option>
+                                                    <option value=">3" >3 +</option>
+                                                    <option value=">4" >4 +</option>
+                                                    <option value=">5" >5 +</option>
+                                                    <option value=">6" >6 +</option>
+                                                    <option value=">7" >7 +</option>
+                                                    <option value=">8" >8 +</option>
+                                                    <option value=">9" >9 +</option>
+                        
+                    </select>
+                </div>
+                    
+                <ul class="check-list">
+                    <li>
+                        <input type="checkbox" id="cb_garden" name="garden"  >
+                        <label id="gardenLbl" for="cb_garden" rel="garden">Garden <span class="count" id="garden">(32)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_balcony" name="balcony"  >
+                        <label id="balconyLbl" for="cb_balcony" rel="balcony">Balcony <span class="count" id="balcony">(39)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_roofterrace" name="roofterrace"  >
+                        <label id="roofterraceLbl" for="cb_roofterrace" rel="roof-terrace">Roof terrace <span class="count" id="roofterrace">(27)</span></label>
+                    </li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul class="check-list">
+                    <li>
+                        <input type="checkbox" id="cb_lift" name="lift"  >
+                        <label id="liftLbl" for="cb_lift" rel="elevator">Elevator <span class="count" id="lift">(14)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_cellar" name="cellar"  >
+                        <label id="cellarLbl" for="cb_cellar" rel="storage">Storage <span class="count" id="cellar">(53)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_bath" name="bath"  >
+                        <label id="bathLbl" for="cb_bath" rel="bath-tub">Bath tub <span class="count" id="bath">(38)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_shower" name="shower"  >
+                        <label id="showerLbl" for="cb_shower" rel="separate-shower">Separate shower <span class="count" id="shower">(76)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_parking" name="parking"  >
+                        <label id="parkingLbl" for="cb_parking" rel="parking-possibility">Parking possibility <span class="count" id="parking">(80)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_garage" name="garage"  >
+                        <label id="garageLbl" for="cb_garage" rel="garage">Garage <span class="count" id="garage">(8)</span></label>
+                    </li>
+                </ul>
+            </div>
+            <div class="col">
+                <ul class="check-list">
+                    <li>
+                        <input type="checkbox" id="cb_fireplace" name="fireplace"  >
+                        <label id="fireplaceLbl" for="cb_fireplace" rel="fireplace">Fireplace <span class="count" id="fireplace">(10)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_airco" name="airco"  >
+                        <label id="aircoLbl" for="cb_airco" rel="air-conditioning">Air conditioning <span class="count" id="airco"> (2)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_tenant" name="tenant"  >
+                        <label id="tenantLbl" for="cb_tenant" rel="suitable-for-sharing-(multiple-people)">Suitable for sharing (multiple people) <span class="count" id="tenant"> (1)</span></label>
+                    </li>
+                    <li>
+                        <input type="checkbox" id="cb_pool" name="pool"  >
+                        <label id="poolLbl" for="cb_pool" rel="swimming-pool">Swimming pool <span class="count" id="pool"> (0)</span></label>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+             
+            </fieldset>  
+        </form>
+    </div>
+</div>
+
+
+                                    </div>    
+                     </div> 
+        <div style="clear:both"></div>
+            <div id="row1" class="rowcols2">
+                             <div id="block1-1" class="cols1 block1">
+                                        <div style="margin:-4px 0 9px 0;clear:both;display:block;overflow:hidden;">
+	<a id="btn-city" class="open-popup" href="#cityPopup">City information</a>
+</div>
+            
+
+
+
+<div id="together_abroad" onclick="javascript: click_together_abroad();" class="white-round google-text-ad" style="display: block;border: 1px solid #ccc;height: auto;overflow: hidden;padding: 0;">
+    <div class="tl"><div class="br"><div class="tr1"><div class="bl content" style="padding-bottom:3px;margin-left:20px;margin-right:5px;text-align:left;">
+                    <a href="http://www.togetherabroad.nl" title="Together Abroad"><img border="0" src="http://media4.pararius.nl/images/poweredbytogetherabroad.jpg" alt="Together Abroad" style="padding: 0;"></a>
+                    <script src="http://www.togetherabroad.nl/shortlist_sx/shortlist_214.js" type="text/javascript"></script>
+                </div></div></div></div>
+</div>
+<script>function  click_together_abroad(){ga('send', 'event','Together abroad banner','Together abroad banner resultpage .COM','Together abroad banner Click');}</script>
+
+<div class="clearboth" style="padding-bottom: 20px;"></div>
+<div id="listBanner">
+	<div id="adsforsearch1"></div>
+	<script type="text/javascript">google_ad_client="ca-pub-0435123080442847";google_ad_slot="7061894287";google_ad_width=300;google_ad_height=250;</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+<div class="set-box">
+    <div class="set-box-home">
+        <strong class="filter-link"><h2><a href="/city-listing">Apartments for rent</a></h2>
+        <a href="/city-listing">A - Z index Cities</a></strong>
+        <div class="scroll-box">
+                        <ul>
+                <li><b>Cities near  Haarlem</b></li>
+                                                                                               <li ><a href="/apartments/bloemendaal"><span>Bloemendaal (5)</span></a></li>
+                                                                              <li ><a href="/apartments/aerdenhout"><span>Aerdenhout (2)</span></a></li>
+                                                                              <li ><a href="/apartments/heemstede"><span>Heemstede (17)</span></a></li>
+                                                                              <li ><a href="/apartments/vijfhuizen"><span>Vijfhuizen (3)</span></a></li>
+                                                                              <li ><a href="/apartments/santpoort-zuid"><span>Santpoort-Zuid (1)</span></a></li>
+                                                                              <li ><a href="/apartments/bentveld"><span>Bentveld (2)</span></a></li>
+                                                                              <li ><a href="/apartments/cruquius"><span>Cruquius (2)</span></a></li>
+                                                                              <li ><a href="/apartments/santpoort-noord"><span>Santpoort-Noord (4)</span></a></li>
+                                                                              <li ><a href="/apartments/velserbroek"><span>Velserbroek (4)</span></a></li>
+                                                                              <li ><a href="/apartments/zwanenburg"><span>Zwanenburg (4)</span></a></li>
+                                                                              <li ><a href="/apartments/zandvoort"><span>Zandvoort (5)</span></a></li>
+                                                                              <li ><a href="/apartments/boesingheliede"><span>Boesingheliede (1)</span></a></li>
+                                                                              <li ><a href="/apartments/hoofddorp"><span>Hoofddorp (49)</span></a></li>
+                                                                                       <li>&nbsp;</li>
+             </ul>
+                                    <ul>
+                <li><b>Top cities in Noord-Holland</b> </li>
+                                                    <li><a href="/apartments/alkmaar"><span>Alkmaar</span></a></li>
+                                                                      <li><a href="/apartments/amsterdam-zuidoost"><span>Amsterdam Zuidoost</span></a></li>
+                                                                      <li><a href="/apartments/bussum"><span>Bussum</span></a></li>
+                                                                      <li><a href="/apartments/haarlem"><span>Haarlem</span></a></li>
+                                                                      <li><a href="/apartments/heemstede"><span>Heemstede</span></a></li>
+                                                                      <li><a href="/apartments/heerhugowaard"><span>Heerhugowaard</span></a></li>
+                                                                      <li><a href="/apartments/hilversum"><span>Hilversum</span></a></li>
+                                                                      <li><a href="/apartments/hoofddorp"><span>Hoofddorp</span></a></li>
+                                                                      <li><a href="/apartments/huizen"><span>Huizen</span></a></li>
+                                                                      <li><a href="/apartments/naarden"><span>Naarden</span></a></li>
+                                                                      <li><a href="/apartments/purmerend"><span>Purmerend</span></a></li>
+                                                                      <li><a href="/apartments/weesp"><span>Weesp</span></a></li>
+                                                                      <li><a href="/apartments/zaandam"><span>Zaandam</span></a></li>
+                                                 <li>&nbsp;</li>
+             </ul>
+                                    <ul> 
+                <li><b>Top cities in the Netherlands</b></li>
+                                                                                                 <li><a href="/apartments/amstelveen"><span>Apartments Amstelveen</span></a></li>
+                                                                                <li><a href="/apartments/amsterdam"><span>Apartments Amsterdam</span></a></li>
+                                                                                <li><a href="/apartments/den-haag"><span>Apartments Den Haag</span></a></li>
+                                                                                <li><a href="/apartments/eindhoven"><span>Apartments Eindhoven</span></a></li>
+                                                                                <li><a href="/apartments/rotterdam"><span>Apartments Rotterdam</span></a></li>
+                                                                                <li><a href="/apartments/utrecht"><span>Apartments Utrecht</span></a></li>
+                                                </ul>
+                        
+        </div>
+        <strong class="filter-link"><a href="/province-listing">A - Z index province</a></strong> |
+        <strong class="filter-link"><a href="/streets-listing">A - Z index streets</a></strong>
+    </div>
+</div>
+
+<style>
+    .fb-button, .ui-slider-handle, #wijken, .nrOfRoomsElement, select {
+        cursor: pointer !important;
+    }
+</style>
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId: '172147226214877',
+            cookie: true,
+            xfbml: true,
+            oauth: true,
+            channelUrl: 'http://www.pararius.nl/facebookChannel.html'
+        });
+
+        FB.Event.subscribe('edge.create', function(href, widget) {
+            setTimeout("ga('send', 'event', 'Facebook', 'like', '" + document.URL + "')", 100);
+        });
+
+        FB.Event.subscribe('edge.remove', function(href, widget) {
+            setTimeout("ga('send', 'event', 'Facebook', 'unlike', '" + document.URL + "')", 100);
+        });
+
+    };
+
+    (function() {
+        var e = document.createElement('script');
+        e.async = true;
+        e.src = document.location.protocol +
+                '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+
+</script>
+<div
+    style="padding-top: 20px;"
+    class="fb-like-box"
+    data-href="https://www.facebook.com/ParariusExpatRentalProperties"
+    data-width="300"
+    data-show-faces="true"
+    data-stream="false"
+    data-header="false">
+</div>
+
+<a href="http://pubads.g.doubleclick.net/gampad/jump?iu=/1015136/Pararius_MPU_300x250&sz=300x250&c=12345" target="_blank">
+            <img src="http://pubads.g.doubleclick.net/gampad/ad?iu=/1015136/Pararius_MPU_300x250&sz=300x250&c=12345">
+        </a>
+                                    </div>    
+                             <div id="block1-0" class="cols2 block0">
+                                        <ul class="breadcrumbs">      
+	<li>    		<div class="trail">
+            <a href="/english">Apartments for rent</a>
+                        	                &gt;
+                <a href="/apartments/province/noord-holland"> Noord-Holland</a>
+                                                                    </div>
+	</li>
+</ul>
+            <div class="heading">
+            <div class="c1" style="float:left;">
+                <h1 id="resultpage">Apartments Haarlem</h1>  <div id="resultNumber">(145 results)</div>            </div>
+            <ul class="tools toolsblue">                
+                <li><a class="nav_view active" rel="list, nofollow" class="active">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                        width="20px" height="20px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                        <path id="menu-2-icon" class="menu-2-icon-svg-active" d="M123.027,413.5H50v-65h73.027V413.5z M123.027,223.5H50v65h73.027V223.5z M123.027,98.5H50v65h73.027V98.5
+                        z M168.027,98.5v65H462v-65H168.027z M168.027,288.5H462v-65H168.027V288.5z M168.027,413.5H462v-65H168.027V413.5z"/>
+                        </svg>                        
+                        <!--<![endif]-->
+                        <!--[if lte IE 8]>
+                        <img src="/images/propertiesListActive.png" width="14">
+                        <![endif]-->
+                      List
+                    </a>
+                </li>
+                <li>
+                    <a class="nav_view" rel="thumb, nofollow">
+                        <!--[if gte IE 9]><!-->
+                       <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                       width="22px" height="22px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                       <path id="picture-multi-2-icon" class="picture-multi-2-icon" d="M375.333,197.791L340.858,84.682L49.999,173.333l66.92,219.556l41.014-12.501v46.931h304.068
+                               V197.791H375.333z M136.548,356.042L86.845,192.966l234.381-71.44l23.246,76.266H157.933v151.732L136.548,356.042z M432.479,397.797
+                               H187.452V227.312h245.027V397.797z M226.454,273.137c0-12.443,10.088-22.533,22.533-22.533c12.441,0,22.529,10.09,22.529,22.533
+                               c0,12.444-10.088,22.531-22.529,22.531C236.542,295.668,226.454,285.581,226.454,273.137z M340.739,273.857l-37.35,53.068
+                               l-20.299-20.922l-57.275,65.076h179.031L340.739,273.857z"/>
+                       </svg>
+                        <!--<![endif]-->
+                        <!--[if lte IE 8]>
+                        <img src="/images/propertiesThumb.png" width="14">
+                        <![endif]-->
+                        Photos
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="heading-block">
+            <strong class="title">Sort by:</strong>
+            <ul>
+                <li>
+                <strong><a href="http://www.pararius.com/apartments/haarlem/city-ascending" class="sort-unselected nosortup"
+                           ref="cityName" rel="nofollow" >City</a></strong>
+                <div class="filter-set">
+                    <a href="http://www.pararius.com/apartments/haarlem/city-ascending" class="up-gray nosortup" ref="cityName" rel="nofollow">Up</a>
+                    <a href="http://www.pararius.com/apartments/haarlem/city-descending" class="down-gray nosortdown" ref="cityName" rel="nofollow">Down</a>
+                </div>
+                </li>
+                <li>
+                    <strong><a href="http://www.pararius.com/apartments/haarlem/postal-code-ascending" class="sort-unselected sortup"
+                               ref="postalCode" rel="nofollow">Postal code</a></strong>
+                    <div class="filter-set">
+                        <a href="http://www.pararius.com/apartments/haarlem/postal-code-ascending" class="up-gray nosortup" ref="postalCode" rel="nofollow">Up</a>
+                        <a href="http://www.pararius.com/apartments/haarlem/postal-code-descending" class="down-gray nosortdown"  ref="postalCode" rel="nofollow">Down</a>
+
+                    </div>
+                </li>
+                <li>
+                    <strong><a href="http://www.pararius.com/apartments/haarlem/insert-date-ascending" class="sort-selected sortup"
+                               ref="insertDate" rel="nofollow">Insert date</a></strong>
+                    <div class="filter-set">
+                        <a href="http://www.pararius.com/apartments/haarlem/insert-date-ascending" class="up-gray nosortup" ref="insertDate" rel="nofollow">Up</a>
+                        <a href="http://www.pararius.com/apartments/haarlem/insert-date-descending" class="down-black nosortdown" ref="insertDate" rel="nofollow">Down</a>
+                    </div>
+                </li>
+                <li>
+                    <strong><a href="http://www.pararius.com/apartments/haarlem/price-ascending" class="sort-unselected sortup"
+                                ref="rentalPrice" rel="nofollow">Price</a></strong>
+                    <div class="filter-set">
+                        <a href="http://www.pararius.com/apartments/haarlem/price-ascending" class="up-gray nosortup" ref="rentalPrice" rel="nofollow">Up</a>
+                        <a href="http://www.pararius.com/apartments/haarlem/price-descending" class="down-gray nosortdown" ref="rentalPrice" rel="nofollow">Down</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+            <div id="searchResultContainer" class="result thumbs">
+            <ul id="resultset" class="products-list type2">
+                                                    <li class="hproduct row-0">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001223955/roordastraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223955/image/jpeg/85x140/HaarlemRoordastraat-5390_1.jpg" alt="Family house Roordastraat 65 -Haarlem-Boerhaavewijk" title="Family house Roordastraat 65 -Haarlem-Boerhaavewijk" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001223955/roordastraat">Family house Roordastraat 65  - Haarlem - Boerhaavewijk</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 699,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 80 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Right now available: spacious house in the south of haarlem. Nearby mall schalkwijk and roads.   this house is provided with a balcony, garden, ki...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001223955/roordastraat/rental-agency">Villex Vastgoedbescherming Haarlem</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-1">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223945/louis-pasteurstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223945/image/jpeg/85x140/HaarlemLouisPasteurstraat-3de2_1.jpg" alt="Apartment Louis Pasteurstraat 150 -Haarlem-Boerhaavewijk" title="Apartment Louis Pasteurstraat 150 -Haarlem-Boerhaavewijk" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223945/louis-pasteurstraat">Apartment Louis Pasteurstraat 150  - Haarlem - Boerhaavewijk</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 537,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 4 bedrooms - 58 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Nice house in the hart of the schalkwijk. Nearby many roads  and the mall. This house is provided with four bedrooms and a sunny garden. You can m...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223945/louis-pasteurstraat/rental-agency">Villex Vastgoedbescherming Haarlem</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-2">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001223871/scheepersstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223871/image/jpeg/85x140/HaarlemScheepersstraat-f085_1.jpg" alt="Family house Scheepersstraat-Haarlem-Transvaalbuurt" title="Family house Scheepersstraat-Haarlem-Transvaalbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001223871/scheepersstraat">Family house Scheepersstraat - Haarlem - Transvaalbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.375,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 80 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Luxor wonen only takes care of the presentation of this object, but mediates and advises exclusively commissioned and interests for you as...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001223871/scheepersstraat/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                    <li class="hproduct">     </li>
+                                                                                
+               
+                                            <li class="hproduct row-3">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223807/kazerneplein">
+                                                                                                                                                                            <img class="photo" width="148" src="/images/no_image_bigone.png" alt="Apartment Kazerneplein-Haarlem-Kleverpark" title="Apartment Kazerneplein-Haarlem-Kleverpark" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223807/kazerneplein">Apartment Kazerneplein - Haarlem - Kleverpark</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 2.000,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 135 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Spacious and stylish, furnished two-bedroom apartment situated on the ground floor with privateparking , close to highways and main railway...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223807/kazerneplein/rental-agency">EHR Haarlem - Leiden</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-4">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223605/jan-gijzenkade">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223605/image/jpeg/85x140/HaarlemJanGijzenkade-9a0f_1.jpg" alt="Apartment Jan Gijzenkade-Haarlem-Indische buurt-Noord" title="Apartment Jan Gijzenkade-Haarlem-Indische buurt-Noord" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223605/jan-gijzenkade">Apartment Jan Gijzenkade - Haarlem - Indische buurt-Noord</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 875,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 65 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Luxor wonen only takes care of the presentation of this object, but mediates and advises exclusively commissioned and interests for you as...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223605/jan-gijzenkade/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-5">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223572/lange-herenvest">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223572/image/jpeg/85x140/HaarlemLangeHerenvest-805a_4.jpg" alt="Apartment Lange Herenvest-Haarlem-Spaarnwouderbuurt" title="Apartment Lange Herenvest-Haarlem-Spaarnwouderbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223572/lange-herenvest">Apartment Lange Herenvest - Haarlem - Spaarnwouderbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 750,-</b>
+                             per month                                                         (inclusive)
+                                                        </strong>
+                             - 1 bedroom - 35 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Comfortable upholstered apartment for rent in haarlem with 1 bedroom and situated in the oude stad district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223572/lange-herenvest/rental-agency">Weelde Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-6">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223547/coornhertstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223547/image/jpeg/85x140/HaarlemCoornhertstraat-05dd_1.jpg" alt="Apartment Coornhertstraat-Haarlem-Zijlweg-Oost" title="Apartment Coornhertstraat-Haarlem-Zijlweg-Oost" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223547/coornhertstraat">Apartment Coornhertstraat - Haarlem - Zijlweg-Oost</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.350,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 80 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Lovely upholstered apartment with garden for rent in haarlem with 2 bedrooms and situated in the spoorbaan leiden district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223547/coornhertstraat/rental-agency">Nu Woonruimte</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                                    <li class="hproduct" >
+                            <div class="content" style="padding-top: 10px;">
+                                <script type="text/javascript"><!--
+                                    google_ad_client = "ca-pub-0435123080442847";
+                                    /* _EN: Zoekresultaten: Midden: Banner */
+                                    google_ad_slot = "2106506947";
+                                    google_ad_width = 468;
+                                    google_ad_height = 60;
+                                    //-->
+                                </script>
+                                <script type="text/javascript"
+                                        src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                                </script>
+                            </div>
+                        </li>
+                                                                                    
+               
+                                            <li class="hproduct row-7">
+                    <a class="photo" href="/studio-for-rent/haarlem/PR0001223516/bolwerkslaan">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223516/image/jpeg/85x140/HaarlemBolwerkslaan-46d4_1.jpg" alt="Studio Bolwerkslaan-Haarlem-Stationsbuurt" title="Studio Bolwerkslaan-Haarlem-Stationsbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/studio-for-rent/haarlem/PR0001223516/bolwerkslaan">Studio Bolwerkslaan - Haarlem - Stationsbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 645,-</b>
+                             per month                                                         (inclusive)
+                                                        </strong>
+                             - 1 bedroom - 27 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Luxor wonen only takes care of the presentation of this object, but mediates and advises exclusively commissioned and interests for you as...
+                        </p>
+                        <span class="spannend">Studio offered by:
+                        
+                                                                                                            <a class="link" href="/studio-for-rent/haarlem/PR0001223516/bolwerkslaan/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-8">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001223515/leidsestraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223515/image/jpeg/85x140/HaarlemLeidsestraat-46d4_1.jpg" alt="Family house Leidsestraat-Haarlem-Leidsebuurt" title="Family house Leidsestraat-Haarlem-Leidsebuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001223515/leidsestraat">Family house Leidsestraat - Haarlem - Leidsebuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.350,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 100 m&sup2;  - Furnished or unfurnished                         </div>
+                        <p class="description">
+                        Features	: fully furnished spacious 3 bedroom house with a garden. This house can also be rented unfurnished. Available	: april / may...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001223515/leidsestraat/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-9">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001223502/atjehstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223502/image/jpeg/85x140/HaarlemAtjehstraat-a5a5_1.jpg" alt="Family house Atjehstraat-Haarlem-Indische buurt-Zuid" title="Family house Atjehstraat-Haarlem-Indische buurt-Zuid" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001223502/atjehstraat">Family house Atjehstraat - Haarlem - Indische buurt-Zuid</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.400,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 100 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Atjehstraat, haarlem (approx. 100m2) € 1400,- excl. G/w/ecompletely renovated and fully furnished family house from 1925 located in a nice quiet st...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001223502/atjehstraat/rental-agency">Koops Makelaardij</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-10">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223501/prins-bernhardlaan">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223501/image/jpeg/85x140/HaarlemPrinsBernhardlaan-10d2_1.jpg" alt="Apartment Prins Bernhardlaan 43 -Haarlem-Parkwijk" title="Apartment Prins Bernhardlaan 43 -Haarlem-Parkwijk" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223501/prins-bernhardlaan">Apartment Prins Bernhardlaan 43  - Haarlem - Parkwijk</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.039,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 95 m&sup2;  - Shell                         </div>
+                        <p class="description">
+                        Lovely apartment with balcony for rent in haarlem with 2 bedrooms and situated in the haarlem-oost district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223501/prins-bernhardlaan/rental-agency">Pré Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-11">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223459/antoniestraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223459/image/jpeg/85x140/HaarlemAntoniestraat-d151_1.jpg" alt="Apartment Antoniestraat-Haarlem-Spaarnwouderbuurt" title="Apartment Antoniestraat-Haarlem-Spaarnwouderbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223459/antoniestraat">Apartment Antoniestraat - Haarlem - Spaarnwouderbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 2.350,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 170 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Antoniestraat, haarlem/ nearby centre  (approx. 170m2)  € 2350,00 excl. G/w/espacious 19th century family house with stunning views of the spaarne! ...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223459/antoniestraat/rental-agency">Koops Makelaardij</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-12">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223397/gierstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223397/image/jpeg/85x140/HaarlemGierstraat-e899_1.jpg" alt="Apartment Gierstraat-Haarlem-Centrum" title="Apartment Gierstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223397/gierstraat">Apartment Gierstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 975,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 50 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Nice upholstered apartment for rent in haarlem with 2 bedrooms and situated in the centrum district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223397/gierstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-13">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223396/gierstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223396/image/jpeg/85x140/HaarlemGierstraat-95dc_1.jpg" alt="Apartment Gierstraat-Haarlem-Centrum" title="Apartment Gierstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223396/gierstraat">Apartment Gierstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.095,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 55 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Nice upholstered apartment with balcony for rent in haarlem with 2 bedrooms and situated in the centrum district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223396/gierstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-14">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223395/gierstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223395/image/jpeg/85x140/HaarlemGierstraat-95dc_1.jpg" alt="Apartment Gierstraat-Haarlem-Centrum" title="Apartment Gierstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223395/gierstraat">Apartment Gierstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.100,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 60 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Beautiful upholstered apartment for rent in haarlem with 2 bedrooms and situated in the centrum district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223395/gierstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-15">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001223281/hoogstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223281/image/jpeg/85x140/HaarlemHoogstraat-b82b_1.jpg" alt="Family house Hoogstraat-Haarlem-Spaarnwouderbuurt" title="Family house Hoogstraat-Haarlem-Spaarnwouderbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001223281/hoogstraat">Family house Hoogstraat - Haarlem - Spaarnwouderbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.250,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 80 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Living in a warehouse in the "burgwal close" is half of this 17th century former warehouse. This original warehouse in the 90s renovated and...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001223281/hoogstraat/rental-agency">DL Housing Services</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-16">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223239/wijde-geldelozepad">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223239/image/jpeg/85x140/HaarlemWijdeGeldelozepad-4467_1.jpg" alt="Apartment Wijde Geldelozepad-Haarlem-Koninginnebuurt" title="Apartment Wijde Geldelozepad-Haarlem-Koninginnebuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223239/wijde-geldelozepad">Apartment Wijde Geldelozepad - Haarlem - Koninginnebuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 870,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 52 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Rental price is excluding gas/water/light, but including service costs. Deposit: at the start of the rental agreement a deposit of one month rent...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223239/wijde-geldelozepad/rental-agency">Overbruggingsverhuur.nl</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-17">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223238/barteljorisstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223238/image/jpeg/85x140/HaarlemBarteljorisstraat-d323_1.jpg" alt="Apartment Barteljorisstraat-Haarlem-Centrum" title="Apartment Barteljorisstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223238/barteljorisstraat">Apartment Barteljorisstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.275,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 65 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Barteljorisstraat, haarlem/ centrum (65m2) € 1275,- excl. G/w/ebeautifully renovated and semi-furnished apartment located on a great location in ha...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223238/barteljorisstraat/rental-agency">Koops Makelaardij</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-18">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001223201/kruisstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223201/image/jpeg/85x140/HaarlemKruisstraat-f52e_1.jpg" alt="Family house Kruisstraat-Haarlem-Centrum" title="Family house Kruisstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001223201/kruisstraat">Family house Kruisstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.495,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 100 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Conveniently located upholstered family house with roof terrace for rent in haarlem with 2 bedrooms and situated in the oude stad district.
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001223201/kruisstraat/rental-agency">Roomservice</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-19">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223119/gasthuissingel">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223119/image/jpeg/85x140/HaarlemGasthuissingel-285f_1.jpg" alt="Apartment Gasthuissingel-Haarlem-Kleine Hout" title="Apartment Gasthuissingel-Haarlem-Kleine Hout" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223119/gasthuissingel">Apartment Gasthuissingel - Haarlem - Kleine Hout</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 850,-</b>
+                             per month                                                         (inclusive)
+                                                        </strong>
+                             - 1 bedroom - 50 m&sup2;  - Furnished or unfurnished                         </div>
+                        <p class="description">
+                        Nice apartment for rent in haarlem with 1 bedroom and situated in the haarlemmerhoutkwartier district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223119/gasthuissingel/rental-agency">Roomservice</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-20">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001223030/bakenessergracht">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001223000/PR0001223030/image/jpeg/85x140/HaarlemBakenessergracht-cc83_1.jpg" alt="Apartment Bakenessergracht-Haarlem-Centrum" title="Apartment Bakenessergracht-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001223030/bakenessergracht">Apartment Bakenessergracht - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 2.000,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 100 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Beautiful fully furnished, well maintained house with canal view! At a unique location in haarlem centre you find this beautiful old historic, but...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001223030/bakenessergracht/rental-agency">RandstadWonen Haarlem</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-21">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001222609/laan-van-osnabruck">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222609/image/jpeg/85x140/HaarlemLaanvanOsnabruck-31e4_1.jpg" alt="Family house Laan van Osnabruck 12 -Haarlem-Europawijk" title="Family house Laan van Osnabruck 12 -Haarlem-Europawijk" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001222609/laan-van-osnabruck">Family house Laan van Osnabruck 12  - Haarlem - Europawijk</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 795,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 4 bedrooms - 80 m&sup2;  - Shell                         </div>
+                        <p class="description">
+                        Lovely family house for rent in haarlem with 4 bedrooms and situated in the schalkwijk district.
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001222609/laan-van-osnabruck/rental-agency">Ymere</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-22">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001222404/gierstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222404/image/jpeg/85x140/HaarlemGierstraat-a226_1.jpg" alt="Apartment Gierstraat-Haarlem-Centrum" title="Apartment Gierstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001222404/gierstraat">Apartment Gierstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 875,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 40 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Nice upholstered apartment for rent in haarlem with 1 bedroom and situated in the centrum district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001222404/gierstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-23">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001222403/gierstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222403/image/jpeg/85x140/HaarlemGierstraat-a226_1.jpg" alt="Apartment Gierstraat-Haarlem-Centrum" title="Apartment Gierstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001222403/gierstraat">Apartment Gierstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 895,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 43 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Nice upholstered apartment for rent in haarlem with 1 bedroom and situated in the centrum district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001222403/gierstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-24">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001222402/gierstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222402/image/jpeg/85x140/HaarlemGierstraat-a226_1.jpg" alt="Apartment Gierstraat-Haarlem-Centrum" title="Apartment Gierstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001222402/gierstraat">Apartment Gierstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 985,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 50 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Nice upholstered apartment with balcony for rent in haarlem with 2 bedrooms and situated in the centrum district.
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001222402/gierstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-25">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001222389/essenstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222389/image/jpeg/85x140/HaarlemEssenstraat-809f_1.jpg" alt="Apartment Essenstraat-Haarlem-Centrum" title="Apartment Essenstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001222389/essenstraat">Apartment Essenstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.110,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 84 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Please note that no agency fee contract cost only! Features	: unfurnished large newly built 2 bedroom apartment with a large balcony french...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001222389/essenstraat/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-26">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001222133/lange-margarethastraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222133/image/jpeg/85x140/HaarlemLangeMargarethastraat-7273_1.jpg" alt="Apartment Lange Margarethastraat-Haarlem-Centrum" title="Apartment Lange Margarethastraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001222133/lange-margarethastraat">Apartment Lange Margarethastraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.850,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 120 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        A very nice fully furnished, spacious (120m2) and completely renovated characteristic warehouse in the very centre of haarlem with a roofterrace. ...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001222133/lange-margarethastraat/rental-agency">Rots Vast Groep Haarlem</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-27">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001222066/sophiaplein">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001222000/PR0001222066/image/jpeg/85x140/HaarlemSophiaplein-e30c_1.jpg" alt="Apartment Sophiaplein-Haarlem-Centrum" title="Apartment Sophiaplein-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001222066/sophiaplein">Apartment Sophiaplein - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 950,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 65 m&sup2;  - Furnished or unfurnished                         </div>
+                        <p class="description">
+                        For rent in haarlem:  amazing one bedroom apartment at the sophiaplein in haarlem only one minute away from the center. The apartment is situated...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001222066/sophiaplein/rental-agency">Amstelland Makelaars</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-28">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001221725/de-clercqstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221725/image/jpeg/85x140/HaarlemDeClercqstraat-a376_1.jpg" alt="Apartment De Clercqstraat-Haarlem-Leidsebuurt" title="Apartment De Clercqstraat-Haarlem-Leidsebuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001221725/de-clercqstraat">Apartment De Clercqstraat - Haarlem - Leidsebuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.205,-</b>
+                             per month                                                         (inclusive)
+                                                        </strong>
+                             - 2 bedrooms - 90 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Spacious furnished 2 bedroom house available on a good location! Spacious living room with open kitchen. Separate toilet. Large garden doors give...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001221725/de-clercqstraat/rental-agency">RandstadWonen Haarlem</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-29">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001221520/wilhelminastraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221520/image/jpeg/85x140/HaarlemWilhelminastraat-595e_1.jpg" alt="Apartment Wilhelminastraat-Haarlem-Centrum" title="Apartment Wilhelminastraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001221520/wilhelminastraat">Apartment Wilhelminastraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.450,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 75 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        This apartment is unique first of all because it is located at one of the most beautiful streets of haarlem. Just minutes from the motorway to...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001221520/wilhelminastraat/rental-agency">VRC - Veth Realty & Consultancy BV</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-30">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001221511/waddenstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221511/image/jpeg/85x140/HaarlemWaddenstraat-d308_1.jpg" alt="Apartment Waddenstraat-Haarlem-Molenwijk" title="Apartment Waddenstraat-Haarlem-Molenwijk" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001221511/waddenstraat">Apartment Waddenstraat - Haarlem - Molenwijk</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 900,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 60 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Furnished apartment in apartment complex in haarlemlayout: entree, hall, spacious living room with large windows. Kitchen adjacent to the living...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001221511/waddenstraat/rental-agency">Nuverhuren.nl</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-31">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001221481/amsterdamsevaart">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221481/image/jpeg/85x140/HaarlemAmsterdamsevaart-b780_1.jpg" alt="Apartment Amsterdamsevaart-Haarlem-Potgieterbuurt" title="Apartment Amsterdamsevaart-Haarlem-Potgieterbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001221481/amsterdamsevaart">Apartment Amsterdamsevaart - Haarlem - Potgieterbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.077,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 92 m&sup2;  - Shell                         </div>
+                        <p class="description">
+                        The residential triangle is situated on the edge of amsterdam neighborhood, just outside the city centre. It is located in one of the older...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001221481/amsterdamsevaart/rental-agency">Hofzicht Verhuur</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-32">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001221480/amsterdamsevaart">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221480/image/jpeg/85x140/HaarlemAmsterdamsevaart-4fa5_1.jpg" alt="Family house Amsterdamsevaart-Haarlem-Potgieterbuurt" title="Family house Amsterdamsevaart-Haarlem-Potgieterbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001221480/amsterdamsevaart">Family house Amsterdamsevaart - Haarlem - Potgieterbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.205,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 3 bedrooms - 120 m&sup2;  - Shell                         </div>
+                        <p class="description">
+                        The triangle  apartment complex is located on the outside of the amsterdam neighborhood along the amsterdamse vaart. It is located in one of the o...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001221480/amsterdamsevaart/rental-agency">Hofzicht Verhuur</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-33">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001221408/kruisweg">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221408/image/jpeg/85x140/HaarlemKruisweg-a79e_1.jpg" alt="Apartment Kruisweg-Haarlem-Stationsbuurt" title="Apartment Kruisweg-Haarlem-Stationsbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001221408/kruisweg">Apartment Kruisweg - Haarlem - Stationsbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 925,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 53 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Kruisweg (53m2) haarlem centre-925 excluding w / e. Including water and basic internet. From 1/9/2015. This very nice apartment is loctated in a...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001221408/kruisweg/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-34">
+                    <a class="photo" href="/room-for-rent/haarlem/PR0001221409/kleine-houtstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221409/image/jpeg/85x140/HaarlemKleineHoutstraat-a79e_1.jpg" alt="Room Kleine Houtstraat-Haarlem-Centrum" title="Room Kleine Houtstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/room-for-rent/haarlem/PR0001221409/kleine-houtstraat">Room Kleine Houtstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 490,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 21 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Comfortable upholstered room with balcony for rent in haarlem with 1 bedroom and situated in the oude stad district.
+                        </p>
+                        <span class="spannend">Room offered by:
+                        
+                                                                                                            <a class="link" href="/room-for-rent/haarlem/PR0001221409/kleine-houtstraat/rental-agency">Real Estate City</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-35">
+                    <a class="photo" href="/family-house-for-rent/haarlem/PR0001221256/lange-hofstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221256/image/jpeg/85x140/HaarlemLangeHofstraat-0284_1.jpg" alt="Family house Lange Hofstraat-Haarlem-Centrum" title="Family house Lange Hofstraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/family-house-for-rent/haarlem/PR0001221256/lange-hofstraat">Family house Lange Hofstraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 800,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 1 bedroom - 30 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Charming, historic town house with courtyard. Located in a car-free street in the center of haarlem with all amenities within walking distance. ...
+                        </p>
+                        <span class="spannend">Family House offered by:
+                        
+                                                                                                            <a class="link" href="/family-house-for-rent/haarlem/PR0001221256/lange-hofstraat/rental-agency">MW Housing</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-36">
+                    <a class="photo" href="/studio-for-rent/haarlem/PR0001221226/lange-margarethastraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221226/image/jpeg/85x140/HaarlemLangeMargarethastraat-d902_1.jpg" alt="Studio Lange Margarethastraat-Haarlem-Centrum" title="Studio Lange Margarethastraat-Haarlem-Centrum" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/studio-for-rent/haarlem/PR0001221226/lange-margarethastraat">Studio Lange Margarethastraat - Haarlem - Centrum</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 1.404,-</b>
+                             per month                                                         (inclusive)
+                                                        </strong>
+                             - 1 bedroom - 60 m&sup2;  - Furnished                         </div>
+                        <p class="description">
+                        Floor:	 ground floorlay out: 	shared entrance hall, spacious living room with wooden floor, kitchen with all appliances, cupboard with washer and...
+                        </p>
+                        <span class="spannend">Studio offered by:
+                        
+                                                                                                            <a class="link" href="/studio-for-rent/haarlem/PR0001221226/lange-margarethastraat/rental-agency">My Housing Agent</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-37">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001221043/frans-halsstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221043/image/jpeg/85x140/HaarlemFransHalsstraat-bfea_1.jpg" alt="Apartment Frans Halsstraat-Haarlem-Frans Halsbuurt" title="Apartment Frans Halsstraat-Haarlem-Frans Halsbuurt" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001221043/frans-halsstraat">Apartment Frans Halsstraat - Haarlem - Frans Halsbuurt</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 850,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 70 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Features	: unfurnished spacious 3 room ground floor apartment. Size		: about 70 a 75 m2  description:spacious house in haarlem suited on short...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001221043/frans-halsstraat/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-38">
+                    <a class="photo" href="/studio-for-rent/haarlem/PR0001221041/van-marumstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001221000/PR0001221041/image/jpeg/85x140/HaarlemVanMarumstraat-bfea_1.jpg" alt="Studio Van Marumstraat-Haarlem-Rozenprieel" title="Studio Van Marumstraat-Haarlem-Rozenprieel" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/studio-for-rent/haarlem/PR0001221041/van-marumstraat">Studio Van Marumstraat - Haarlem - Rozenprieel</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 675,-</b>
+                             per month                                                         (inclusive)
+                                                        </strong>
+                             - 1 bedroom - 31 m&sup2;  - Unfurnished                         </div>
+                        <p class="description">
+                        Features	: unfurnished spacious studio apartment. Rental price	: € 675,= inclusive g/w/e/ cable and internet description:a large studio apartment i...
+                        </p>
+                        <span class="spannend">Studio offered by:
+                        
+                                                                                                            <a class="link" href="/studio-for-rent/haarlem/PR0001221041/van-marumstraat/rental-agency">Luxor Wonen</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                            <li class="hproduct row-39">
+                    <a class="photo" href="/apartment-for-rent/haarlem/PR0001220791/timorstraat">
+                                                                                                                                                                            <img class="photo" width="148" src="http://media.pararius.nl/image/PR0001220000/PR0001220791/image/jpeg/85x140/HaarlemTimorstraat-1eae_1.jpg" alt="Apartment Timorstraat-Haarlem-Indische buurt-Noord" title="Apartment Timorstraat-Haarlem-Indische buurt-Noord" />
+                    </a>
+                    <div class="content">
+                        <div class="addressTitle"><a href="/apartment-for-rent/haarlem/PR0001220791/timorstraat">Apartment Timorstraat - Haarlem - Indische buurt-Noord</a></div>
+                        <div class="deform">
+                            <strong class="price"><b>€ 950,-</b>
+                             per month                                                         (exclusive)
+                                                        </strong>
+                             - 2 bedrooms - 70 m&sup2;  - Unknown                         </div>
+                        <p class="description">
+                        Regarding this property interhouse verhuurprofessionals® mediates on behalf of the landlord. This means that no mediation fee will be charged to a...
+                        </p>
+                        <span class="spannend">Apartment offered by:
+                        
+                                                                                                            <a class="link" href="/apartment-for-rent/haarlem/PR0001220791/timorstraat/rental-agency">INTERHOUSE Haarlem</a></span>
+                                                                    
+                        </span>
+                    </div>
+                </li>
+                                                                                
+               
+                                                        </ul>
+        <div class="clear"></div>
+                <script type="text/javascript" charset="utf-8">
+            (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+                    arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+                    O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+                e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+
+            var pageOptions = {
+                'pubId': 'pub-0435123080442847',
+                'query': 'huurwoning',
+                'channel': '4875956289',
+                'hl': 'nl'
+            };
+
+            //var adblock1 = {
+            //    'container': 'Search unit boven',
+            //    'number': 1,
+            //    'width': '700px',
+            //    'colorTitleLink': '#004773',
+            //    'colorDomainLink': '#FF6600',
+            //    'colorBackground': '#FAFAFA'
+            //};
+
+            var adblock1 = {
+                'container': 'Search unit beneden',
+                'number': 3,
+                'width': '620px',
+                'lines': 2,
+                'colorTitleLink': '#004773',
+                'colorDomainLink': '#FF6600',
+                'colorBackground': '#FAFAFA'
+            };
+
+            _googCsa('ads', pageOptions, adblock1);
+
+        </script>
+        <div id="Search unit beneden" style="display: block; overflow: hidden;"></div>
+        </div><!--?-->
+            <!--Start pagination -->
+        <div  class="heading-block" style="display: block;overflow: hidden;clear: both;">
+        <div class="paginering-block" style="display: block;overflow: hidden;">
+                        <h3>More search results for rentals and apartments in Haarlem</h3>
+                        <ul id="pagination-digg">
+                                <li>
+                                                                <a class="active_white" title="Current Page"  >1</a>
+                                            <a  title="Page 2"  href="http://www.pararius.com/apartments/haarlem/page-2"  >2</a>
+                                            <a  title="Page 3"  href="http://www.pararius.com/apartments/haarlem/page-3"  >3</a>
+                                            <a  title="Page 4"  href="http://www.pararius.com/apartments/haarlem/page-4"  >4</a>
+                                                                <a id="nexter" title="Next" href="http://www.pararius.com/apartments/haarlem/page-2">&rarr;</a>
+                                    </li>
+                                    <li class="next-off"><a title="Last" href="http://www.pararius.com/apartments/haarlem/page-4">&raquo;</a></li>
+                            </ul>
+        </div>
+    </div>
+    <!--End pagination -->
+
+    
+                                    </div>    
+                     </div> 
+        <div style="clear:both"></div>
+            
+    <div id="row_seo_div" class="rowcols1">
+        <div id="parseCityContent">
+    <h2>Apartments in Haarlem? The Haarlem rental website!</h2>
+    <p>Rentals in Haarlem? Pararius offers many rental apartments in Haarlem. Also rental properties such as houses, villas and flats for rent in Haarlem.</p>
+<h2>Furnished apartments and other expat properties</h2>
+<p>Pararius is a rental site where rental&nbsp;properties such as apartments&nbsp;are offered in an independent and transparent way.&nbsp;All Haarlem rentals are listed by highly professional rental agencies, all of them specialised in serving expats and foreigners. Our database contains rental properties that perfectly suit the needs of expats, such as furnished apartments in Haarlem and short-stay apartments. The site is always up-to-date, an apartment for rent in Haarlem offered on our webite, will be available for you in real-time. This is ensured by&nbsp;the automatic refreshment system in our rental database. On the site you can specify your wishes concerning your apartment in Haarlem by using our advanced search engine. For example, this engine helps you to generate a list with purely furnished apartments in Haarlem, helping you to efficiently find a furnished rental propert. Anyone looking to rent in Haarlem knows that it&#39;s important to be first in row when a new rental property is available on the market. Our rental property e-mail alert ensures that you will be among the first visitors when an apartment in Haarlem is newly available for rent.</p>
+<h2>Rental agencies in Haarlem</h2>
+<p>You could consider to hire professional support in your search for a rental in Haarlem. Check out our overview of <a href="/real-estate-agents/Haarlem">real estate&nbsp;agencies in Haarlem</a>. All of them are a member of Pararius&nbsp;and comply with our standards for quality and service towards expats and foreigners.</p>
+<h2>Haarlem, city with rich history</h2><p>Haarlem is located in the province Noord Holland. The municipality Haarlem has much to offer to its tenants. Haarlem is an historical city which harvests a very large number of monuments. Leisure in Haarlem is top notch, Haarlem has already been exclaimed a few times as `shopping city of the Netherlands&rsquo;. The good public transport, broad education activities and good medical care turn Haarlem into a very interesting city. Haarlem is proud of its past but of course also works hard for the future. The vision of the municipality Haarlem has three main points: besides developing aspects such as tourism and cultural activities it also focuses on durable living. If you are interested in living in Haarlem look for further information on the website <a href="http://www.haarlem.nl/smartsite9.htm ">Haarlem</a>.</p>
+<p>A rental apartment in Haarlem is found easily with Pararius by the broad rental apartments offer and the&nbsp;easy navigation. If you want to&nbsp;rent an&nbsp;apartment in Haarlem, you don&rsquo;t need to look further, you will find your Haarlem rental on Pararius.</p>
+</div>
+
+    </div>
+    <div style="clear:both"></div>
+</div>
+<div style="clear:both"></div>
+<!--Start Footer -->
+<div id="footer">
+    <div class="footer-nav">
+        
+                    <div class="container">
+                                    <div class="col">
+                                                <strong class="title">For tenants</strong>
+                        <ul>
+                                                                                            <li>
+                                    <a  rel="nofollow"  href="/about-pararius" >About pararius</a></li>
+                                                                                                                            <li>
+                                    <a  rel="nofollow"  href="/sign-up-for-free" >Sign up for free</a></li>
+                                                                                                                            <li>
+                                    <a  rel="nofollow"  href="/this-is-us" >This is us</a></li>
+                                                                                                                            <li>
+                                    <a  rel="nofollow"  href="/having-doubts" >Having doubts?</a></li>
+                                                                                                                            <li>
+                                    <a  rel="nofollow"  href="/pararius-apartments-app" >Pararius app</a></li>
+                                                                                    </ul>
+                                            </div>
+                                    <div class="col">
+                                                <strong class="title">For advertisers</strong>
+                        <ul>
+                                                                                            <li>
+                                    <a  rel="nofollow"  href="/advertise-on-pararius" >Advertise on Pararius</a></li>
+                                                                                    </ul>
+                                            </div>
+                                    <div class="col">
+                                                <strong class="title">Other</strong>
+                        <ul>
+                                                                                            <li>
+                                    <a  rel="nofollow"  href="/useful-links" >Useful links</a></li>
+                                                                                                                            <li>
+                                    <a  rel="nofollow"  href="/pararius-privacy-policy" >Privacy policy</a></li>
+                                                                                                                             <ul class="social-networks">
+                                    <li>
+                                        <a target="_blank" class="facebook" href="http://www.facebook.com/pararius">
+                                            Facebook</a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" class="twitter" href="http://twitter.com/pararius">Twitter
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a target="_blank" class="linkedin"
+                                           href="http://www.linkedin.com/company/pararius-bv">Linkedin</a>
+                                    </li>
+                                    <li>
+                                        <a class="googleplus" target="_blank"
+                                           href="https://plus.google.com/116146297543498118353/posts">googleplus</a>
+                                    </li>
+                                </ul>
+                                                                                    </ul>
+                                            </div>
+                            </div>
+        
+    </div>
+
+    <script>
+        jQuery(function ($) {
+            $('.facebook').click(function() {
+                setTimeout("ga('send', 'event', 'Pararius Social Network Footer', 'Pararius Facebook Footer " +
+                        "Button', 'Pararius Facebook Click')", 100);
+            });
+
+            $('.twitter').click(function() {
+                setTimeout("ga('send', 'event', 'Pararius Social Network Footer', 'Pararius Twitter Footer " +
+                        "Button', 'Pararius Twitter Click')", 100);
+            });
+
+            $('.linkedin').click(function() {
+                setTimeout("ga('send', 'event', 'Pararius Social Network Footer', 'Pararius Linkedin Footer " +
+                        "Button ', 'Pararius Linkedin Click')", 100);
+            });
+
+            $('.googleplus').click(function() {
+                setTimeout("ga('send', 'event', 'Pararius Social Network Footer', 'Pararius Googleplus Footer " +
+                        "Button ', 'Pararius Googleplus Click')", 100);
+            });
+
+            setTimeout("ga('send', 'event', 'Still Viewing:', window.location.href)",30000);
+        });
+    </script>
+
+    
+    <div class="container">
+        <div class="copyright">
+            <strong>&copy; 2006 - 2015 <a href="#">Pararius B.V.</a></strong>
+                    </div>
+    </div>
+</div>
+<!--End Footer --><!--Start REMINDER MESSAGE -->
+
+<div id="reminderDialog" class="light-box popup-prepared" style="display: none; opacity: 1; position: fixed; z-index: 1001; top: 65.5px; left: 442.5px;">
+    <div class="holder">
+        <a id="closePopup" class="btn-close" title="Close" href="#">close</a>
+        <label class="hideforever" for="hideforever"><span>Do not show this window again</span><input autocomplete="off" type="checkbox" id="hideforever" /></label>
+        <div style="font-size: 16px; font-weight: bold;margin-bottom:7px;margin-top:0;padding-top:0;text-align: center;">Sign up for free and Pararius will keep you informed of the newest listings!</div>
+        <p style="color: #000; text-align: center; font-size: 15px;">Realtors pay for their rental properties on Pararius</p>
+        <div class="boxi">
+            <ul class="lijsts">
+                <li>Largest rental portal in the Netherlands</li>
+                <li>Hundreds of new rental properties every day</li>
+                <li>Personal offers</li>
+                <li>And much more...</li>
+            </ul>
+            <div id="parariusRegisterNew">
+                <input id="createAccount" class="primary popup large" type="submit" value="Sign up for free" onclick="location.href='/sign-up-for-free'">
+            </div>
+        </div>
+        <p>No, we also do not like spam... You can always change your e-mail preferences</p>
+<h3>Read about us:</h3>
+<ul class="partners-list">
+    <li>
+        <a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111022%20Volkskrant.pdf"><img src="http://media.pararius.nl/images/logo-volksrant.gif"></a>
+    </li>
+    <li class="small">
+        <a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111229%20FD%20Interview%20met%20Jasper%20de%20Groot.pdf">
+            <img src="http://media.pararius.nl/images/logo-fd.gif">
+        </a>
+    </li>
+    <li class="small"><a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111020%20AD%20Algemeen.pdf"><img src="http://media.pararius.nl/images/logo-ad.gif"></a></li>
+    <li><a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111216%20Telegraaf.pdf"><img src="http://media.pararius.nl/images/logo-de.gif"></a></li>
+</ul>    </div>
+</div>
+<div style="clear:both"></div>
+<script>
+        $(document).ready(function(){
+            var visited = $.cookie("pagesVisited");
+            var uauth = parseInt($.cookie("uauth"), 10);
+            if (isNaN(uauth)){
+                uauth = 0;
+            }
+            if (visited == null){
+                visited = 0;
+            }
+            //visited++;
+            ///$.cookie("pagesVisited", visited, { expires: 60, path: '/' });
+
+            if ( ((($.cookie('noPopup') == 0) || ($.cookie('noPopup') == null)) && (($.cookie('pagesVisited')== 10) || ($.cookie('pagesVisited')== 20)) && uauth==0 ) ){
+                ModalBox.open("#reminderDialog");
+            }else{
+                $("#reminderDialog").css("display", "none");
+            }
+
+            $('#closePopup').click(
+                    function() {
+                        $("#reminderDialog").css("display", "none");
+                        if($.cookie('pagesVisited')== 20){
+                            $.cookie("noPopup", "1", { expires: 59, path: '/' });
+                        }
+                    }
+            );
+            $('#closeLoginForm').click(
+                    function() {
+                        $("#signIn").css("display", "none");
+                        $('#lightbox-overlay').each(function() {
+                            $(this).css({ opacity: 0 });
+                        });
+                    }
+            );
+        });
+    </script>
+<!--End REMINDER MESSAGE --><!--Start LOGIN BOX -->
+<div id="signIn" class="light-box popup-prepared">
+    <div class="holder">
+        <p class="errorMessage">
+                    </p>
+        <a title="Do not show this window again" class="btn-close" id="closeLoginForm" href="#">Close</a>
+        <div class="heading">
+            <div style="text-align:left;color:#004773; font-weight:bold; font-size:24px; line-height:26px;">Login</div>
+            <div style="clear:both"></div>
+            <strong style="color: #000000; text-align: center!important; width: 100%; float: left;">
+                Save and follow homes! Not yet registered?<a class="orange" href=/sign-up-for-free>Sign up for free</a>
+            </strong>
+        </div>
+        <div class="boxes">
+            <div class="box same-height-left">
+                <h3 style="float:left; padding-right:30px">Direct login</h3>
+                <form class="main-form login-form" action="/login" method="post" id="loginForm" novalidate="novalidate">
+                    <fieldset>
+                        <input type="text" placeholder="Your email address" id="loginYourName" name="username">
+                        <input type="password" placeholder="Password" id="loginYourPassword" name="password">
+                        <div class="row">
+                            <a class="link orange" href="/forget-password">Forget password</a>
+                            <input type="checkbox" checked="" class="checkbox" value="1" name="stayloggedin" id="check-save">
+                            <span style="float:left;color:black">Stay logged in</span>
+                        </div>
+                    </fieldset>
+                    <fieldset>
+                        <input type="submit" id="loginButton" value="Inloggen" name="doSubmit">
+                    </fieldset>
+                </form>
+            </div>
+            <div class="box same-height-right">
+                    <h3>Login with Facebook</h3>
+                    <ul>
+                        <li>We only share the information you want us to share</li>
+                        <li>You determine what is posted on Facebook</li>
+                        <li>No, your friends will not see that you have registered with us...</li>
+                    </ul>
+                    <a class="btn-facebook" data-populate_uri="">
+                        <span><strong>Login with Facebook</strong></span>
+                    </a>
+            </div>
+        </div>
+        <p>No, we also do not like spam... You can always change your e-mail preferences</p>
+<h3>Read about us:</h3>
+<ul class="partners-list">
+    <li>
+        <a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111022%20Volkskrant.pdf"><img src="http://media.pararius.nl/images/logo-volksrant.gif"></a>
+    </li>
+    <li class="small">
+        <a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111229%20FD%20Interview%20met%20Jasper%20de%20Groot.pdf">
+            <img src="http://media.pararius.nl/images/logo-fd.gif">
+        </a>
+    </li>
+    <li class="small"><a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111020%20AD%20Algemeen.pdf"><img src="http://media.pararius.nl/images/logo-ad.gif"></a></li>
+    <li><a target="_blank" href="http://media.pararius.nl/documents/nieuwsberichten/20111216%20Telegraaf.pdf"><img src="http://media.pararius.nl/images/logo-de.gif"></a></li>
+</ul>    </div>
+</div>
+<!--End LOGIN BOX --><script type="text/javascript">
+    var _ac = {};
+    // _ac.value = '19.99'; // Optioneel: voeg waarde toe aan conversies.
+
+    (function(d, t) {
+        var a = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        a.async = a.src = '//pixel.adcrowd.com/smartpixel/00ac8ed3b4327bdd4ebbebcb2ba10a00.js';
+        s.parentNode.insertBefore(a, s);
+    }(document, 'script'));
+</script><script type="text/javascript">
+    //var _gaq = _gaq || [];
+    //_gaq.push(['_setAccount', 'UA-742557-2']);
+    //_gaq.push(['_setDomainName', 'www.pararius.com']);
+    //_gaq.push(['_addIgnoredRef', 'pararius.nl']);
+    //_gaq.push(['_trackPageview']);
+
+    //(function() {
+    //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/u/ga.js';
+    //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    //})();
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-742557-2', 'auto');
+    ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+    //window.onload = function(){
+    //    if(document.title.length<1){
+    //        _gaq.push(['_trackEvent', 'empty-title', '/url='+encodeURIComponent(document.location.pathname + document.location.search + '&ref='+document.referrer), '', , true]);
+    //    }
+    //};
+</script></body>
+</html>
