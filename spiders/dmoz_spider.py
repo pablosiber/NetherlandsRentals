@@ -13,7 +13,10 @@ class DmozSpider(CrawlSpider):
         "http://www.pararius.com/apartments/haarlem"
     ]
     
-    rules = [Rule(LinkExtractor(allow=('http://www.pararius.com/'),deny=('page')),follow=True,callback='parse_apt')]
+    rules = [Rule(LinkExtractor(allow=('(pararius).*(/apartment-for-rent).*(amsterdam).*',
+                                       '(pararius).*(/family-house-for-rent).*(amsterdam).*'),
+                                deny=('appartamenti','appartements','mietwohnungen','appartamenti','huurwoningen','pisos')),
+                                follow=True,callback='parse_apt')]
     
     '''
     def parse(self, response):
@@ -41,11 +44,20 @@ class DmozSpider(CrawlSpider):
         item['bedrooms'] = hxs.select(".//dl[@class='details-product']/dd[5]//text()").extract()
         item['price_inc'] = hxs.select(".//ul[@class='attribList']/li[8]//text()").extract()
         item['zip_code'] = hxs.select(".//div[@class='description']/address//text()").extract()
+        item['neighborhood'] = hxs.select("//li//div[@class='trail']//span[1]").extract()
+
+    
 
         return item
-    
-    # idioma siempre ingles
-    # persistir a archivo
+
+    #apartment-for-rent        
+    #family-house-for-rent
+    # SOLO INGLES!!!
+        #deny OTRAS COMBINACIONES, CASA IN AFFITO, NO SOLO APT
+    # data cleansing
+        #replace or unfurnished"
+
+    # NO DUPLICAR VALORES
     # navegacion completa, iterar paginas 1-30 (paginado)
     
     
