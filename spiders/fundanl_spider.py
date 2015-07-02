@@ -8,11 +8,14 @@ import ipdb
 
 class DmozSpider(CrawlSpider):  
     name = "funda"
-    
+    name
     allowed_domains = ["funda.nl"]
-    start_urls = ["http://www.funda.nl/huur/amsterdam/+2km/0-2000/"]
+    start_urls = ["http://www.funda.nl/huur/amsterdam/"]
     
-    rules = [Rule(LinkExtractor(allow=('(funda.nl).*(appartement).*')),follow=True,callback='parse_apt')]
+    rules = [Rule(LinkExtractor(allow_domains=allowed_domains,
+                                allow=('(funda.nl/huur/amsterdam).*(appartement).*'),
+                                deny=('.*(print)')),
+                                follow=True,callback='parse_apt')]
     
     #.*(/kenmerken/) ## complete features
 
@@ -21,21 +24,41 @@ class DmozSpider(CrawlSpider):
         hxs = HtmlXPathSelector(response) 
         item = FundaWebsite()
 
-        ipdb.set_trace()
-        item['price'] = hxs.select(".//dd[@class='price']//text()").extract()
-        item['space'] = hxs.select("//tr[@id='twwo13']//td//span[@class='specs-val']").extract()
-        #item['interior'] = hxs.select(".//dl[@class='details-product']/dd[4]//text()").extract()
-        #item['bedrooms'] = hxs.select(".//dl[@class='details-product']/dd[5]//text()").extract()
-        #item['price_inc'] = hxs.select(".//ul[@class='attribList']/li[8]//text()").extract()
-        #item['zip_code'] = hxs.select(".//div[@class='description']/address//text()").extract()
-        #item['neighborhood'] = hxs.select("//li//div[@class='trail']//span[1]").extract()
+        
+        #if response.url.find("kenmerken") == -1:
+                # not useful URL
+                #return item     
 
-        #specific/fur  "//tr[@id='twby12']//td//span[@class='specs-val']"
+        #ipdb.set_trace()        
+        dirtyPrice = hxs.select("//tr[@id='hula12']//td//span[@class='specs-val']//span[@class='price-wrapper']").extract()
+        if not dirtyPrice:
+            return
+        
+        item['price'] = dirtyPrice[0].replace("\n","").replace("\t","")
+        
+        #ipdb.set_trace()         
+        
+        dirtySpace = hxs.select("//tr[@id='twwo13']//td//span[@class='specs-val']").extract()
+        item['space'] = dirtySpace[0].replace("\n","").replace("\t","")
+
+        #ipdb.set_trace()    
+        dirtyLocation = hxs.select("//span[@itemprop='title']").extract()
+        if not dirtyLocation:
+            return
+        item['location'] = dirtyLocation[len(dirtyLocation)-1]
+
+        dirtyFurnished = hxs.select("//tr[@id='twby12']//td//span[@class='specs-val']").extract()
+        if not dirtyFurnished:
+            return
+        item['furnished'] = dirtyFurnished[0].replace("\n","").replace("\t","")
+
+
+        #ipdb.set_trace()      
 
         return item
 
 
-##precio>> hula12
+
 
 
 

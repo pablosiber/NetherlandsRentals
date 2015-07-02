@@ -15,4 +15,4 @@ NEWSPIDER_MODULE = 'tutorial.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tutorial (+http://www.yourdomain.com)'
-DEPTH_LIMIT = 2
+DEPTH_LIMIT = 4

@@ -23,11 +23,6 @@ class Website(Item):
 class FundaWebsite(Item):
 	price = scrapy.Field()
 	space = scrapy.Field()
-	interior = scrapy.Field()
-	bedrooms = scrapy.Field()
-	description = scrapy.Field()
-	agent = scrapy.Field()
-	address = scrapy.Field()
-	price_inc = scrapy.Field()
-	zip_code = scrapy.Field()
-	neighborhood = scrapy.Field()
+	location = scrapy.Field()
+	furnished = scrapy.Field()
+	

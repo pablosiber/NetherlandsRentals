@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import ipdb
-def data_cleansing(file):
+import csv
+
+def data_cleansing_pararius(file):
 
 	o = open(file +'_clean','w+')
 	f = open(file,'r')
@@ -28,5 +30,44 @@ def data_cleansing(file):
 	f.close()
 	o.close()		
 
+def data_cleansing_funda(file):
 
-data_cleansing('output.csv')
+	o = open(file +'_clean','w+')
+	csvfile = open(file,'r')
+	
+	csvfile.next() #escape headers line
+
+	spamreader = csv.reader(csvfile, delimiter=',', quotechar='"')	
+	i = 1
+	for line in spamreader:
+		
+		price=line[0]
+		furnished = line[1]
+		neighborhood=line[2]
+		space = line[3]
+
+		
+		price = price.replace('\xac','EU')
+		price = price[price.find('EU')+4:price.find('per maand')-1].replace('.','')
+		
+		
+		neighborhood = neighborhood[neighborhood.find('title"">')+24:neighborhood.find('</span>')-1]
+		
+		space = space.replace('\xc2\xb2,','').replace('\xc2\xa0m','')
+		space = space[space.find('title"">')+25:space.find('</span>')-1]
+		space = space.decode('utf-8').encode("ascii", "ignore").replace(' ','')
+
+		#ipdb.set_trace()
+
+		furnished = furnished.replace("  ","")
+		furnished = furnished[furnished.find('val"">')+25:furnished.find('</span>')]
+		
+		# write output file
+		if len(price) <6:
+			#print neighborhood,precio,metros,fur
+			o.write(str(neighborhood)+","+str(price)+","+str(space)+","+str(furnished)+"\n")
+	csvfile.close()
+	o.close()
+
+data_cleansing_funda('funda.csv')
+#data_cleansing_pararius('output.csv')
